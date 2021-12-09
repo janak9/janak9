@@ -3,7 +3,7 @@
 - 👨‍💻 I'm experienced Fullstack Developer with a demonstrated work history.
 - 🌱 I have worked with many languages and frameworks.
 - 💞️ High quality, clean code, in-time delivery, good communication are my main concerns.
-- [Upwork](https://www.upwork.com/freelancers/~01cec3ddce77b45e0e) | [LinkedIn](https://in.linkedin.com/in/janak-vaghela-648aa11b9)
+- [Upwork](https://www.upwork.com/freelancers/~01cec3ddce77b45e0e) | [LinkedIn](https://in.linkedin.com/in/janak-vaghela-648aa11b9) | [E-mail](mailto:janak.vaghela.97@gmail.com)
 
 
 # Skills
